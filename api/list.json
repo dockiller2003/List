@@ -1,0 +1,128 @@
+[
+  {
+    "userId": 0,
+    "firstName": "Roy",
+    "lastName": "Thomson",
+    "status": "Available"
+  },
+  {
+    "userId": 1,
+    "firstName": "Tom",
+    "lastName": "Cat",
+    "status": "Busy"
+  },
+  {
+    "userId": 2,
+    "firstName": "Jerry",
+    "lastName": "Mouse",
+    "status": "Idle"
+  },
+  {
+    "userId": 3,
+    "firstName": "Bugs",
+    "lastName": "Bunny",
+    "status": "Offline"
+  },
+  {
+    "userId": 4,
+    "firstName": "Duffy",
+    "lastName": "Duck",
+    "status": "Offline"
+  },
+  {
+    "userId": 5,
+    "firstName": "Mia",
+    "lastName": "Wallace",
+    "status": "Available"
+  },
+  {
+    "userId": 6,
+    "firstName": "John",
+    "lastName": "Doe",
+    "status": "Available"
+  },
+  {
+    "userId": 7,
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "status": "Available"
+  },
+  {
+    "userId": 8,
+    "firstName": "Kit",
+    "lastName": "Kat",
+    "status": "Offline"
+  },
+  {
+    "userId": 9,
+    "firstName": "Dark",
+    "lastName": "Knight",
+    "status": "Busy"
+  },
+  {
+    "userId": 10,
+    "firstName": "Max",
+    "lastName": "Power",
+    "status": "Available"
+  },
+  {
+    "userId": 11,
+    "firstName": "Guss",
+    "lastName": "Doe",
+    "status": "Available"
+  },
+  {
+    "userId": 12,
+    "firstName": "Luke",
+    "lastName": "Shadow",
+    "status": "Busy"
+  },
+  {
+    "userId": 13,
+    "firstName": "Bane",
+    "lastName": "Brown",
+    "status": "Offline"
+  },
+  {
+    "userId": 14,
+    "firstName": "Dan",
+    "lastName": "Smith",
+    "status": "Offline"
+  },
+  {
+    "userId": 15,
+    "firstName": "Ashley",
+    "lastName": "Samsonite",
+    "status": "Busy"
+  },
+  {
+    "userId": 16,
+    "firstName": "John",
+    "lastName": "Rambo",
+    "status": "Available"
+  },
+  {
+    "userId": 17,
+    "firstName": "Yosemite",
+    "lastName": "Sam",
+    "status": "Available"
+  },
+  {
+    "userId": 18,
+    "firstName": "Kelly",
+    "lastName": "McFly",
+    "status": "Offline"
+  },
+  {
+    "userId": 19,
+    "firstName": "Bill",
+    "lastName": "Blue",
+    "status": "Offline"
+  },
+  {
+    "userId": 20,
+    "firstName": "Julie",
+    "lastName": "Banks",
+    "status": "Busy"
+  }
+]
